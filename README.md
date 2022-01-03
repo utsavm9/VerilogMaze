@@ -1,6 +1,6 @@
 # Verilog Maze
 
-A maze game with a random walker using the FPGA. Works on [Xilinx Nexys 3 board](https://digilent.com/reference/programmable-logic/nexys-3/start).
+A maze game with a random walker using the FPGA. Works on [Xilinx Nexys 3 board](https://digilent.com/reference/programmable-logic/nexys-3/start). Made with [Zihan Liu](https://www.linkedin.com/in/zihan-liu-a6071817b)!
 
 ![Maze](https://raw.githubusercontent.com/utsavm9/VerilogMaze/main/maze.jpg)
 
